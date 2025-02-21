@@ -35,6 +35,13 @@
 
 ---
 
+## 🌍 **Visitor Counter**
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rpy2006/count.svg" />
+</p>
+
+---
+
 ## 🛠️ **Tech Stack & Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -45,13 +52,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white">
 </p>
-
----
-
-## 🚀 **Projects & Open Source Work**
-🔹 [Temporary Mail Server](https://rpy2006.github.io/Temporary-mail-server/) - Secure, disposable email service.  
-🔹 [Termux Command Guide](https://rohitbhaiwhf.bz) - Learn Termux commands with interactive guides.  
-🔹 Multi-API Web App (Coming Soon) - A tool integrating 50+ APIs for various tasks.  
 
 ---
 
@@ -81,24 +81,41 @@
 
 ---
 
-## 📝 **Recent Blog Posts**
-- [How to Use Termux for Ethical Hacking](https://rohitbhaiwhf.bz/blog/termux-hacking)  
-- [Top 10 Useful APIs for Developers](https://rohitbhaiwhf.bz/blog/top-10-apis)  
-- [Step-by-Step Guide to Affiliate Marketing](https://rohitbhaiwhf.bz/blog/affiliate-marketing-guide)  
-
----
-
-## 💡 **Random Programming Quote**
+## 🎶 **Now Playing on Spotify**
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
 </p>
 
 ---
 
-## 👀 **Profile Views**
+## 📌 **Pinned Repositories**
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rpy2006&repo=Temporary-mail-server)](https://github.com/rpy2006/Temporary-mail-server)
+
+---
+
+## 💡 **Programming Quote**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rpy2006&color=blue&style=flat-square">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+## 😂 **Random Programming Joke**
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
+</p>
+
+---
+
+## 🤣 **Random Developer Meme**
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400px" />
+</p>
+
+---
+
+## 🏔 **GitHub Skyline**
+[![GitHub Skyline](https://skyline.github.com/rpy2006/2023)](https://skyline.github.com/rpy2006/2023)
 
 ---
 
