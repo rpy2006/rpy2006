@@ -19,10 +19,13 @@
 
 ## 🌎 **Connect With Me**
 <p align="center">
+  <a href="mailto:rohitprasadyadav06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohitprasadyadav06@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://github.com/rpy2006">
     <img src="https://img.shields.io/badge/GitHub-rpy2006-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://instagram.com/your_instagram">
+  <a href="https://www.instagram.com/with_rohiit/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://rohitbhaiwhf.bz">
@@ -103,6 +106,17 @@
 - Developing a **multi-API web app** with 50+ APIs  
 - Improving my **affiliate marketing website**  
 - Learning **backend development (Node.js & MongoDB)**  
+
+---
+
+## ❤️ **Support Me**
+If you like my work and want to support me, consider buying me a coffee. Your support helps me continue creating amazing open-source projects.  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/rohitprasan" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7B93E?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+  </a>
+</p>
 
 ---
 
