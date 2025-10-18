@@ -100,7 +100,7 @@
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 📊 Development Breakdown
 
 ```text
 Web Development   ████████████████████   65% 
