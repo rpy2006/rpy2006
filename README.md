@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="300px">
+</h1>
+
 <h1 align="center">Hi there, I'm Rohit Prasad Yadav 👋</h1>
 <h3 align="center">Aspiring Entrepreneur | Full-Stack Developer | Open-Source Enthusiast</h3>
 
@@ -7,6 +11,16 @@
   <a href="https://github.com/rpy2006?tab=repositories">Projects</a> •
   <a href="https://www.instagram.com/with_rohiit/">Instagram</a>
 </p>
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+
+[![Spotify](https://spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your_username)
+
+</div>
 
 ---
 
@@ -100,10 +114,13 @@
 
 ---
 
-## 📊 Development Breakdown
+<div align="center">
 
-```text
-Web Development   ████████████████████   65% 
-API Development   ██████████            30%
-Documentation     █████                 15%
-Open Source       ████████              25%
+### ⚡ Fun Fact
+*I code better with good music! 🎵 + 💻 = 🚀*
+
+⭐ **From [rpy2006](https://github.com/rpy2006)** 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rpy2006&color=blue&style=flat-square)
+
+</div>
