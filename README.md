@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="450px">
+</h1>
+
 <h1 align="center">Hi, I'm Rohit Prasad Yadav 👋</h1>
 <h3 align="center">Entrepreneur in Progress • Full-Stack Developer • Open-Source Enthusiast</h3>
 
@@ -13,9 +17,9 @@
 ## 👨‍💻 About Me
 
 - Passionate about building useful web tools and platforms
-- Interested in startups, fintech, and developer products
+- Interested in startups, fintech, and developer-focused products
 - Active in open-source and practical development projects
-- Currently focused on backend and scalable systems
+- Currently improving backend and scalable system skills
 
 ---
 
@@ -29,9 +33,7 @@
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpy2006&theme=radical&hide_border=true"/>
-
 </div>
 
 ---
@@ -77,9 +79,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rpy2006&theme=react-dark&hide_border=true"/>
-
 </div>
 
 ---
@@ -87,9 +87,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=rpy2006&theme=onedark&no-frame=true&row=1"/>
-
 </div>
 
 ---
@@ -120,9 +118,6 @@ I code best when good music is playing.
 ---
 
 <div align="center">
-  
-⭐ From <b>rpy2006</b>
-
+⭐ From <b>rpy2006</b><br>
 <img src="https://komarev.com/ghpvc/?username=rpy2006&color=blue&style=flat-square"/>
-
 </div>
